@@ -1,0 +1,13 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+<<<<<<< HEAD
+.firebase/
+=======
+>>>>>>> a8d0c9b30339e46493c7b5214911f1ff3656f953
